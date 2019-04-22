@@ -6,7 +6,7 @@
     "poststart": "npm prune --production",
     "pretest": "eslint django/ js_tests/admin/ js_tests/gis/",
     "test": "grunt test --verbose",
-    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
+    "heroku-postbuild": "webpack -p --config ./webpack.config.js --progress"
   },
   "engines": {
     "node": "11.13.0",
