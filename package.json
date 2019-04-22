@@ -25,7 +25,6 @@
     "bootstrap-sass": "^3.4.1",
     "css-loader": "^2.1.1",
     "eslint": "^5.16.0",
-    "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-qunit": "^1.2.0",
     "jquery": "^3.3.1",
